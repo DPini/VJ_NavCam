@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/NavCam.dir/Level.cpp.o CMakeFiles/NavCam.dir/Texture.cpp.o CMakeFiles/NavCam.dir/Scene.cpp.o CMakeFiles/NavCam.dir/Shader.cpp.o CMakeFiles/NavCam.dir/ShaderProgram.cpp.o CMakeFiles/NavCam.dir/Game.cpp.o CMakeFiles/NavCam.dir/main.cpp.o  -o NavCam -lGLU -lGL -lglut -lXmu -lXi -lGLEW -lSOIL 

@@ -1,0 +1,3 @@
+/home/dpini/Documentos/Uni/q7/VJ/NavCam/build/CMakeFiles/rebuild_cache.dir
+/home/dpini/Documentos/Uni/q7/VJ/NavCam/build/CMakeFiles/NavCam.dir
+/home/dpini/Documentos/Uni/q7/VJ/NavCam/build/CMakeFiles/edit_cache.dir
