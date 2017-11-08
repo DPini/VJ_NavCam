@@ -101,7 +101,7 @@ GL/glew.h
 /home/dpini/Documentos/Uni/q7/VJ/NavCam/main.cpp
 GL/glew.h
 -
-GL/glut.h
+GL/freeglut.h
 -
 Game.h
 /home/dpini/Documentos/Uni/q7/VJ/NavCam/Game.h

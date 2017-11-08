@@ -24,7 +24,7 @@ void Scene::init()
 {
 	initShaders();
 	level = Level::createLevel(glm::vec3(16, 4, 32), texProgram, "images/floor.png", "images/wall.png");
-	projection = glm::perspective(45.f / 180.f * PI, float(CAMERA_WIDTH) / float(CAMERA_HEIGHT), 0.1f, 100.f);
+	projection = glm::perspective(45.f / 1800.f * PI, float(CAMERA_WIDTH) / float(CAMERA_HEIGHT), 0.1f, 100.f);
 	currentTime = 0.0f;
 }
 
