@@ -5,13 +5,15 @@
 
 class Camera{
     public:
-        void update(char* keys);
+        void update();
         glm::mat4 getProjectionMatrix();
 
     private:
         glm::vec3 VRP;
         glm::vec3 OBS;
         glm::vec3 UP;
+        glm::mat4 projection;
+        int actual_cam;
 
 
 };
